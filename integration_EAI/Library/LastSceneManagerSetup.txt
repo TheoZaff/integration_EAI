@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EAI/Scenes/Game_reccueil.unity
+  isLoaded: 1
+  isActive: 1

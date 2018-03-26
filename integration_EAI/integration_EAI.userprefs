@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EAI\Scripts\getDialogue.cs">
+    <Files>
+      <File FileName="Assets\EAI\Scripts\getDialogue.cs" Line="16" Column="1" />
+      <File FileName="Assets\EAI\Scripts\displayCard.cs" Line="9" Column="1" />
+      <File FileName="Assets\EAI\Scripts\displayBulle.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="E:\integration_EAI\integration_EAI\Assets\EAI\Scripts\getDialogue.cs" line="27" column="11" />
+      <RunToCursorBreakpoint file="E:\integration_EAI\integration_EAI\Assets\EAI\Scripts\getDialogue.cs" line="27" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

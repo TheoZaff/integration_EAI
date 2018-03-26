@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1080164415, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: loc_all objects_en
+  m_EditorClassIdentifier: 
+  mLocaKeys:
+  - Dlg_BE7496F0.DisplayName
+  - Dlg_BE7496F0.Text
+  - Dlg_FB5F392B.DisplayName
+  - Dlg_FB5F392B.Text
+  - Dlg_E16BA149.DisplayName
+  - Dlg_E16BA149.Text
+  - DFr_4B0871F0.PreviewText
+  - DFr_4B0871F0.StageDirections
+  - DFr_4B0871F0.Text
+  - DFr_9B634841.PreviewText
+  - DFr_9B634841.StageDirections
+  - DFr_9B634841.Text
+  - DFr_C97D4B9C.PreviewText
+  - DFr_C97D4B9C.StageDirections
+  - DFr_C97D4B9C.Text
+  - DFr_49283A54.PreviewText
+  - DFr_49283A54.StageDirections
+  - DFr_49283A54.Text
+  - DFr_F5E835ED.PreviewText
+  - DFr_F5E835ED.StageDirections
+  - DFr_F5E835ED.Text
+  - DFr_5F8965F7.PreviewText
+  - DFr_5F8965F7.StageDirections
+  - DFr_5F8965F7.Text
+  - DFr_5CF1AB1D.PreviewText
+  - DFr_5CF1AB1D.StageDirections
+  - DFr_5CF1AB1D.Text
+  - DFr_53252D44.PreviewText
+  - DFr_53252D44.StageDirections
+  - DFr_53252D44.Text
+  - DFr_CCB915F9.PreviewText
+  - DFr_CCB915F9.StageDirections
+  - DFr_CCB915F9.Text
+  - DFr_CF19D280.PreviewText
+  - DFr_CF19D280.StageDirections
+  - DFr_CF19D280.Text
+  - DFr_EA424AC1.PreviewText
+  - DFr_EA424AC1.StageDirections
+  - DFr_EA424AC1.Text
+  - DFr_956F4E59.PreviewText
+  - DFr_956F4E59.StageDirections
+  - DFr_956F4E59.Text
+  - DFr_56FF83B4.PreviewText
+  - DFr_56FF83B4.StageDirections
+  - DFr_56FF83B4.Text
+  - DFr_3C41A1F5.PreviewText
+  - DFr_3C41A1F5.StageDirections
+  - DFr_3C41A1F5.Text
+  - DFr_95647D54.PreviewText
+  - DFr_95647D54.StageDirections
+  - DFr_95647D54.Text
+  - DFr_0C7D1BA2.PreviewText
+  - DFr_0C7D1BA2.StageDirections
+  - DFr_0C7D1BA2.Text
+  - DFr_22AAA949.PreviewText
+  - DFr_22AAA949.StageDirections
+  - DFr_22AAA949.Text
+  - DFr_CAC88206.PreviewText
+  - DFr_CAC88206.StageDirections
+  - DFr_CAC88206.Text
+  - DFr_A8944C74.PreviewText
+  - DFr_A8944C74.StageDirections
+  - DFr_A8944C74.Text
+  - DFr_BDB2BF9A.PreviewText
+  - DFr_BDB2BF9A.StageDirections
+  - DFr_BDB2BF9A.Text
+  - DFr_169CC323.PreviewText
+  - DFr_169CC323.StageDirections
+  - DFr_169CC323.Text
+  - DFr_5560316E.PreviewText
+  - DFr_5560316E.StageDirections
+  - DFr_5560316E.Text
+  - DFr_3E06983C.PreviewText
+  - DFr_3E06983C.StageDirections
+  - DFr_3E06983C.Text
+  - DFr_7BAE9DE7.PreviewText
+  - DFr_7BAE9DE7.StageDirections
+  - DFr_7BAE9DE7.Text
+  - DFr_95BDA715.PreviewText
+  - DFr_95BDA715.StageDirections
+  - DFr_95BDA715.Text
+  - DFr_13447766.PreviewText
+  - DFr_13447766.StageDirections
+  - DFr_13447766.Text
+  - DFr_FB6F7B5F.PreviewText
+  - DFr_FB6F7B5F.StageDirections
+  - DFr_FB6F7B5F.Text
+  - DFr_64B78CDF.PreviewText
+  - DFr_64B78CDF.StageDirections
+  - DFr_64B78CDF.Text
+  - DFr_4D5CDC27.PreviewText
+  - DFr_4D5CDC27.StageDirections
+  - DFr_4D5CDC27.Text
+  - DFr_9CE9BFC3.PreviewText
+  - DFr_9CE9BFC3.StageDirections
+  - DFr_9CE9BFC3.Text
+  - DFr_ABC8F5B4.PreviewText
+  - DFr_ABC8F5B4.StageDirections
+  - DFr_ABC8F5B4.Text
+  - DFr_B4028708.PreviewText
+  - DFr_B4028708.StageDirections
+  - DFr_B4028708.Text
+  - DFr_480BF872.PreviewText
+  - DFr_480BF872.StageDirections
+  - DFr_480BF872.Text
+  - DFr_4498BD48.PreviewText
+  - DFr_4498BD48.StageDirections
+  - DFr_4498BD48.Text
+  - DFr_3577B72E.PreviewText
+  - DFr_3577B72E.StageDirections
+  - DFr_3577B72E.Text
+  - DFr_04C56BD1.PreviewText
+  - DFr_04C56BD1.StageDirections
+  - DFr_04C56BD1.Text
+  - DFr_6A98A56F.PreviewText
+  - DFr_6A98A56F.StageDirections
+  - DFr_6A98A56F.Text
+  - DFr_0A4B0716.PreviewText
+  - DFr_0A4B0716.StageDirections
+  - DFr_0A4B0716.Text
+  - DFr_74E88467.PreviewText
+  - DFr_74E88467.StageDirections
+  - DFr_74E88467.Text
+  - DFr_B0BFAFB6.PreviewText
+  - DFr_B0BFAFB6.StageDirections
+  - DFr_B0BFAFB6.Text
+  - DFr_DD1CAFBA.PreviewText
+  - DFr_DD1CAFBA.StageDirections
+  - DFr_DD1CAFBA.Text
+  - DFr_5743A0BA.PreviewText
+  - DFr_5743A0BA.StageDirections
+  - DFr_5743A0BA.Text
+  - DFr_138DF010.PreviewText
+  - DFr_138DF010.StageDirections
+  - DFr_138DF010.Text
+  - DFr_A6634DA1.PreviewText
+  - DFr_A6634DA1.StageDirections
+  - DFr_A6634DA1.Text
+  - DFr_16F9CB02.PreviewText
+  - DFr_16F9CB02.StageDirections
+  - DFr_16F9CB02.Text
+  - DFr_5DF16965.PreviewText
+  - DFr_5DF16965.StageDirections
+  - DFr_5DF16965.Text
+  - Ntt_FE94C9D9.DisplayName
+  - Ntt_FE94C9D9.Text
+  - Ntt_619E4CC9.DisplayName
+  - Ntt_619E4CC9.Text
+  - Ntt_05581525.DisplayName
+  - Ntt_05581525.Text
+  - Ntt_C74EAB4E.DisplayName
+  - Ntt_C74EAB4E.Text
+  - Ast_53CAA688.DisplayName
+  - Ast_53CAA688.Text
+  - Ast_733C709A.DisplayName
+  - Ast_733C709A.Text
+  - Ast_8DBED825.DisplayName
+  - Ast_8DBED825.Text
+  - Ufo_71BDD78A.DisplayName
+  - Ufo_904DBC82.DisplayName
+  - Ufo_E39855E9.DisplayName
+  - Ufo_5164D463.DisplayName
+  - Ufo_50D73E38.DisplayName
+  - Ufo_337453A9.DisplayName
+  mLocaValues:
+  - Profil 1
+  - 'profil addiction : ACCUEIL'
+  - Profil 1 RECCUEIL DE DONNEE
+  - "profil addiction : RECCUEIL de donn\xE9es"
+  - essai_test
+  - 
+  - Bonjour
+  - normal
+  - Bonjour !
+  - Bonjour, Madame M assistante sociale.
+  - 'serre la main '
+  - Bonjour, Madame M, entrez.
+  - 'Bonjour '
+  - abrupte
+  - Bonjour
+  - Allez-y entrez
+  - polie et courtoise
+  - Allez-y entrez
+  - 'Madame B, allez-y entrez '
+  - polie et courtoise
+  - Madame B, allez-y entrez
+  - Madame B, entrez !
+  - abrupte
+  - Madame B, entrez !
+  - 
+  - entre dans la piece
+  - 
+  - Nicolas X
+  - entre dans la piece
+  - Nicolas X
+  - 
+  - entre dans la piece, regarde ses pieds
+  - 
+  - "\"Alors je vous \xE9coute\""
+  - regarde la personne dans les yeux
+  - "\"Alors je vous \xE9coute\""
+  - alors pourquoi ce rendez-vous ?
+  - regarde son dossier
+  - alors pourquoi ce rendez-vous ?
+  - Hmmmm...
+  - "g\xEAn\xE9"
+  - "Heummm\u2026  Je viens pour\u2026 Je viens parce que j'ai besoins de soins."
+  - "D\u2019accord. C\u2019est quoi que vous consommez ?"
+  - 'regarde la personne en face '
+  - "D\u2019accord. C\u2019est quoi que vous consommez ?"
+  - "Ca d\xE9pend ce que j\u2019ai\u2026 et du pognon\u2026"
+  - "g\xEAn\xE9"
+  - "Ca d\xE9pend ce que j\u2019ai\u2026 et du pognon\u2026"
+  - "Vous vous rendez compte de la gravit\xE9 !"
+  - 
+  - "Vous vous rendez compte de la gravit\xE9 !"
+  - accompagnement
+  - 
+  - "D\u2019accord. Et vous avez \xE9t\xE9 d\xE9j\xE0 accompagn\xE9 dans ce cadre-l\xE0
+    par une association ?"
+  - oui !
+  - "col\xE8re"
+  - oui !
+  - "Oui, j\u2019ai d\xE9j\xE0 eu des traitements."
+  - normal
+  - "Oui, j\u2019ai d\xE9j\xE0 eu des traitements."
+  - 
+  - 
+  - "C\u2019est une association qui accompagne les personnes qui\_\_sont en situation
+    de consommation de produits et qui souhaite en discuter avec un professionnel
+    pour faire le point sur leur consommation. Puis apr\xE8s, des personnes aussi
+    qui sont demandent de soutien pour arr\xEAter ou pour en tous cas diminuer leur
+    consommation car des fois c\u2019est difficile d\u2019\xEAtre dans cette situation-l\xE0.
+    Donc ces personnes-l\xE0 peuvent vous soutenir. Il y a des travailleurs sociaux,
+    une psychologue aussi."
+  - 
+  - 
+  - Moi je peux vous aider, par exemple vous m'appeler tous les jours pour me dire
+    que vous n avez pas consommer
+  - 
+  - 
+  - Cette association s'occupe de gens comme vous  qui ne savent pas que se droguer
+    cest mal
+  - 
+  - normal
+  - "Enfin\u2026 Comment on peut faire\_? Moi je suis oblig\xE9 de rendre des comptes
+    en fait c\u2019est pour \xE7a que je suis oblig\xE9 d\u2019aller vite"
+  - 
+  - "g\xEAn\xE9"
+  - "oui mais...je n'ai pas de t\xE9l\xE9phone"
+  - 
+  - "col\xE8re"
+  - "je sais que c mal la drogue mais j'arrive pas \xE0 m'arreter"
+  - 
+  - 
+  - " rendre des comptes \xE0 qui ?"
+  - 
+  - 
+  - Coment voulez vous vous en sortir ?
+  - 
+  - 
+  - "Ces medicaments que vous prenez \xE0 des amis, vous savez ce que c'est ?"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - regarde ses pieds
+  - "Mais\u2026. En fait, j\u2019ai \xE9t\xE9 interpell\xE9 pour trafic de stupp."
+  - 
+  - 
+  - "D\u2019accord. Donc du coup vous consommez\_? Vous consommez certains produits\_?"
+  - Oui
+  - "g\xEAn\xE9"
+  - "Oui, mais sa d\xE9pend de ce que j'ai...et du pognon."
+  - 
+  - 
+  - "D\u2019accord. Donc cette obligation de soins, c\u2019est dans ce cadre-l\xE0,
+    la consommation de drogue. ?"
+  - 
+  - 
+  - "En fait, j\u2019ai dit que non, que je ne consommais pas. Mais ils m\u2019ont
+    mis en garde en vue pendant 48h donc ils l\u2019on bien vu\u2026."
+  - 
+  - 
+  - "Vous consommez toujours actuellement\_?"
+  - 
+  - 
+  - "Pour l\u2019instant, j\u2019ai les m\xE9docs. Mais mon copain est pass\xE9e.
+    Mais bon, il va falloir que je lui  rende quoi. Donc il faut que je retrouve un
+    m\xE9decin."
+  - 4
+  - 
+  - apiouy 4
+  - 3
+  - 
+  - azerty 3
+  - 2
+  - 
+  - zertyui 2
+  - 4
+  - 
+  - azertyu 4
+  - 5
+  - 
+  - azert 5
+  - 1
+  - 
+  - poiuytre 1
+  - 2
+  - 
+  - ^poiuyt 2
+  - 1
+  - 
+  - azertyu 1
+  - 
+  - 
+  - " D'accord, c\u2019est une obligation de soin par rapport \xE0 quoi"
+  - profil 1
+  - "Il s'agit du profil numero 1, venu en rdv pour un probl\xE8me de suivi medical."
+  - Assistante sociale
+  - "Repr\xE9sente le joueur"
+  - Indice
+  - 
+  - remediation
+  - 
+  - theoDR(1)
+  - 
+  - elodie(1)
+  - 
+  - ASS_decor
+  - 
+  - Images
+  - Videos
+  - Audio
+  - Documents
+  - Miscellaneous
+  - the good Way
