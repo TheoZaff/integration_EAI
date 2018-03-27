@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -1676762633, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
   m_Name: ArticyDatabase
   m_EditorClassIdentifier: 
-  mHierarchy: {fileID: 114692122645205330}
+  mHierarchy: {fileID: 114551863876759772}
   mLocalization: {fileID: 114534820744372168}
   mInternalProject:
     mName: eai
@@ -72,7 +72,7 @@ MonoBehaviour:
   mThrowOnMissingText: 0
   mClearOnLanguageSwitch: 1
   mExportLanguage: en
---- !u!114 &114692122645205330
+--- !u!114 &114551863876759772
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
