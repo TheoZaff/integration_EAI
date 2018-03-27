@@ -8,7 +8,8 @@ public class getDialogue : MonoBehaviour {
 
 	public ArticyRef myRef;
 	public string toPrint;
-	public ArticyObject from;
+	public ArticyObject speaker;
+	public static getDialogue Instance;
 
 
 	// Use this for initialization
@@ -25,10 +26,10 @@ public class getDialogue : MonoBehaviour {
 			//Debug.Log (test.Speaker);
 
 			toPrint = test.Text;
-			from = test.Speaker;
-
-			Debug.Log (toPrint);
-			Debug.Log (from);
+			speaker = test.Speaker;
+			Debug.Log (speaker);
+			//Debug.Log (toPrint);
+			//Debug.Log (speaker);
 
 
 		}
@@ -38,5 +39,9 @@ public class getDialogue : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
+	}
+
+	void awake(){
+		Instance = this;
 	}
 }
