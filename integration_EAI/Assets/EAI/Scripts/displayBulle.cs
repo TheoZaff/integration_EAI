@@ -35,9 +35,10 @@ public class displayBulle : MonoBehaviour {
 			//Debug.Log ("toto");
 			//mytext.text = ""+txt;
 			print (txt);
+			Text.text = txt;
 		}else{
 			Debug.Log ("tata");
 		}
-		Text.text = txt;
+		//Text.text = txt;
 }
 }

@@ -28,16 +28,17 @@ public class displayCard : MonoBehaviour {
 		string thisSpeaker = spk.ToString ();
 		string a = "(Articy.Eai.ASS)";
 
-		//Debug.Log (thisSpeaker);
-		//Debug.Log (a);
+		Debug.Log (thisSpeaker);
+		Debug.Log (a);
 
 		if (thisSpeaker.Contains(a)){
 			//Debug.Log ("toto");
 			//mytext.text = ""+txt;
 			print (txt);
+			Text.text = txt;
 		}else{
 			Debug.Log ("tata");
 		}
-		Text.text = txt;
+
 	}
 }
