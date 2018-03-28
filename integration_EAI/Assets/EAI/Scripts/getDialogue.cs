@@ -28,9 +28,37 @@ public class getDialogue : MonoBehaviour {
 			toPrint = test.Text;
 			speaker = test.Speaker;
 			Debug.Log (speaker);
+
 			//Debug.Log (toPrint);
 			//Debug.Log (speaker);
 
+			//Debug.Log (test.Children);
+			//Debug.Log (test.OutputPins);
+			test.GetInputPins ();
+			test.GetOutputPins ();
+			//print (test.InputPins);
+			//print (test.OutputPins);
+			//print(test.Children);
+
+
+			/*
+
+			for (int i = 0; i < test.InputPins.Count; i++) {
+				print(test.InputPins[i]);
+				print (test.InputPins [i].Id);
+				print (test.InputPins [i].Text);
+			}
+
+			for (int j = 0; j < test.OutputPins.Count; j++) {
+				print (test.OutputPins [j]);
+				print (test.OutputPins [j].Id);
+				print (test.OutputPins [j].Text);
+			}
+
+			for (int k = 0; k < test.Children.Count; k++) {
+				print (test.Children [k]);
+			}
+			*/
 
 		}
 		
