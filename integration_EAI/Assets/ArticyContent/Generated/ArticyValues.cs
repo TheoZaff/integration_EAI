@@ -263,6 +263,15 @@ namespace Articy.Eai
     
     
     [Serializable()]
+    public class ArticyValueplayerFeature : ArticyValue<Articy.Eai.Features.playerFeature>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
     public class ArticyValueASS : ArticyValue<ASS>
     {
     }
@@ -326,6 +335,24 @@ namespace Articy.Eai
     
     
     [Serializable()]
+    public class ArticyValueprofil_1Template : ArticyValue<Articy.Eai.Templates.profil_1Template>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
+    public class ArticyValueprofil_1 : ArticyValue<profil_1>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
     public class ArticyValueSpot : ArticyValue<Spot>
     {
     }
@@ -363,6 +390,24 @@ namespace Articy.Eai
     
     [Serializable()]
     public class ArticyValueAsset : ArticyValue<Asset>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
+    public class ArticyValueg_neTemplate : ArticyValue<Articy.Eai.Templates.g_neTemplate>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
+    public class ArticyValueg_ne : ArticyValue<g_ne>
     {
     }
 }
@@ -417,6 +462,24 @@ namespace Articy.Eai
     
     [Serializable()]
     public class ArticyValueLocationImage : ArticyValue<LocationImage>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
+    public class ArticyValuegeneTemplate : ArticyValue<Articy.Eai.Templates.geneTemplate>
+    {
+    }
+}
+namespace Articy.Eai
+{
+    
+    
+    [Serializable()]
+    public class ArticyValuegene : ArticyValue<gene>
     {
     }
 }

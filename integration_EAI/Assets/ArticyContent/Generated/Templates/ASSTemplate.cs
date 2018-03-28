@@ -25,8 +25,28 @@ namespace Articy.Eai.Templates
     public class ASSTemplate : IArticyBaseObject, IPropertyProvider
     {
         
+        [SerializeField()]
+        private ArticyValueplayerFeature mplayer = new ArticyValueplayerFeature();
+        
+        public Articy.Eai.Features.playerFeature player
+        {
+            get
+            {
+                return mplayer.GetValue();
+            }
+            set
+            {
+                mplayer.SetValue(value);
+            }
+        }
+        
         private void CloneProperties(object aClone)
         {
+            Articy.Eai.Templates.ASSTemplate newClone = ((Articy.Eai.Templates.ASSTemplate)(aClone));
+            if ((player != null))
+            {
+                newClone.player = ((Articy.Eai.Features.playerFeature)(player.CloneObject()));
+            }
         }
         
         public object CloneObject()
@@ -44,10 +64,30 @@ namespace Articy.Eai.Templates
         #region property provider interface
         public void setProp(string aProperty, object aValue)
         {
+            int featureIndex = aProperty.IndexOf('.');
+            if ((featureIndex != -1))
+            {
+                string featurePath = aProperty.Substring(0, featureIndex);
+                string featureProperty = aProperty.Substring((featureIndex + 1));
+                if ((featurePath == "player"))
+                {
+                    player.setProp(featureProperty, aValue);
+                }
+            }
         }
         
         public Articy.Unity.Interfaces.ScriptDataProxy getProp(string aProperty)
         {
+            int featureIndex = aProperty.IndexOf('.');
+            if ((featureIndex != -1))
+            {
+                string featurePath = aProperty.Substring(0, featureIndex);
+                string featureProperty = aProperty.Substring((featureIndex + 1));
+                if ((featurePath == "player"))
+                {
+                    return player.getProp(featureProperty);
+                }
+            }
             return null;
         }
         #endregion

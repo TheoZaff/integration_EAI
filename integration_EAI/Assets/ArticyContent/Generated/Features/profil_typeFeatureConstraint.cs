@@ -34,6 +34,10 @@ namespace Articy.Eai.Features
         
         private TextConstraint mSmallTextValue_02;
         
+        private ReferenceSlotConstraint mGene;
+        
+        private ReferenceSlotConstraint mColere;
+        
         public TextConstraint SmallTextValue
         {
             get
@@ -70,6 +74,24 @@ namespace Articy.Eai.Features
             }
         }
         
+        public ReferenceSlotConstraint gene
+        {
+            get
+            {
+                EnsureConstraints();
+                return mGene;
+            }
+        }
+        
+        public ReferenceSlotConstraint colere
+        {
+            get
+            {
+                EnsureConstraints();
+                return mColere;
+            }
+        }
+        
         public virtual void EnsureConstraints()
         {
             if ((mLoadedConstraints == true))
@@ -81,6 +103,8 @@ namespace Articy.Eai.Features
             mNumberValue = new Articy.Unity.Constraints.NumberConstraint(-3.40282346638529E+38, 3.40282346638529E+38, 0, 0, 0, null);
             mMediumTextValue = new Articy.Unity.Constraints.TextConstraint(2048, "", null, false, true);
             mSmallTextValue_02 = new Articy.Unity.Constraints.TextConstraint(2048, "", null, false, false);
+            mGene = new Articy.Unity.Constraints.ReferenceSlotConstraint("Entity;Asset;", "", "None;Image;Video;Audio;Document;Misc;All;", "");
+            mColere = new Articy.Unity.Constraints.ReferenceSlotConstraint("FlowFragment;Dialogue;DialogueFragment;Condition;Instruction;Hub;Jump;Entity;Location;Link;Path;Spot;Zone;LocationText;LocationImage;Document;TextObject;Journey;Asset;", "", "None;Image;Video;Audio;Document;Misc;All;", "");
         }
     }
 }

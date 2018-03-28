@@ -23,5 +23,15 @@ namespace Articy.Eai.Templates
     
     public class ASSTemplateConstraint
     {
+        
+        private playerFeatureConstraint mPlayer = new playerFeatureConstraint();
+        
+        public playerFeatureConstraint player
+        {
+            get
+            {
+                return mPlayer;
+            }
+        }
     }
 }

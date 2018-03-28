@@ -19,7 +19,7 @@ namespace Articy.Eai.GlobalVariables
 {
     
     
-    [Articy.Unity.ArticyCodeGenerationHashAttribute(636576627970994780)]
+    [Articy.Unity.ArticyCodeGenerationHashAttribute(636578383453649030)]
     public class ArticyScriptFragments : BaseScriptFragments, ISerializationCallbackReceiver
     {
         
@@ -27,6 +27,38 @@ namespace Articy.Eai.GlobalVariables
         private System.Collections.Generic.Dictionary<int, System.Func<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider, bool>> Conditions = new System.Collections.Generic.Dictionary<int, System.Func<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider, bool>>();
         
         private System.Collections.Generic.Dictionary<int, System.Action<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider>> Instructions = new System.Collections.Generic.Dictionary<int, System.Action<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider>>();
+        #endregion
+        
+        #region Script fragments
+        /// <summary>
+        /// ObjectID: 0x10000070000019B
+        /// Articy Object ref: articy://localhost/view/1ef877d3-9a66-46f9-b3a5-21558fe59ded/72057624102699419?pane=selected&amp;tab=current
+        /// </summary>
+        public bool Script_0x10000070000019BText(ArticyGlobalVariables aGlobalVariablesState, Articy.Unity.IBaseScriptMethodProvider aMethodProvider)
+        {
+            return //clicking on profil 1
+true;
+        }
+        
+        /// <summary>
+        /// ObjectID: 0x10000070000023B
+        /// Articy Object ref: articy://localhost/view/1ef877d3-9a66-46f9-b3a5-21558fe59ded/72057624102699579?pane=selected&amp;tab=current
+        /// </summary>
+        public bool Script_0x10000070000023BText(ArticyGlobalVariables aGlobalVariablesState, Articy.Unity.IBaseScriptMethodProvider aMethodProvider)
+        {
+            return //clicking on profil 1
+true;
+        }
+        
+        /// <summary>
+        /// ObjectID: 0x100000700000245
+        /// Articy Object ref: articy://localhost/view/1ef877d3-9a66-46f9-b3a5-21558fe59ded/72057624102699589?pane=selected&amp;tab=current
+        /// </summary>
+        public bool Script_0x100000700000245Text(ArticyGlobalVariables aGlobalVariablesState, Articy.Unity.IBaseScriptMethodProvider aMethodProvider)
+        {
+            return //clicking on profil 1
+true;
+        }
         #endregion
         
         #region Unity serialization
@@ -38,6 +70,9 @@ namespace Articy.Eai.GlobalVariables
         {
             Conditions = new System.Collections.Generic.Dictionary<int, System.Func<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider, bool>>();
             Instructions = new System.Collections.Generic.Dictionary<int, System.Action<ArticyGlobalVariables, Articy.Unity.IBaseScriptMethodProvider>>();
+            Conditions.Add(255129363, this.Script_0x10000070000019BText);
+            Conditions.Add(970858138, this.Script_0x10000070000023BText);
+            Conditions.Add(987481516, this.Script_0x100000700000245Text);
         }
         #endregion
         

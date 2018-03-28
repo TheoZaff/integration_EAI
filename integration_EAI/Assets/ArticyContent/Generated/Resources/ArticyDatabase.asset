@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -1676762633, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
   m_Name: ArticyDatabase
   m_EditorClassIdentifier: 
-  mHierarchy: {fileID: 114562719898414904}
+  mHierarchy: {fileID: 114239923523931004}
   mLocalization: {fileID: 114534820744372168}
   mInternalProject:
     mName: eai
@@ -21,14 +21,24 @@ MonoBehaviour:
   mImportedAssets:
   - Assets/Images/theoDR(1)
   - Assets/Images/elodie(1)
-  - Assets/Images/ASS_decor
-  mDefaultGlobalVariables: {fileID: 114158744317889872}
-  mScriptFragments: {fileID: 114049113210233616}
+  - Assets/Images/entretient
+  - "Assets/Images/expression/col\xE8re"
+  - Assets/Images/expression/content
+  - Assets/Images/expression/distrait
+  - "Assets/Images/expression/\xE9tonn\xE9"
+  - "Assets/Images/expression/g\xEAne"
+  - Assets/Images/expression/normal
+  - Assets/Images/expression/triste
+  - "Assets/Images/int\xE9rieur-moderne-de-salle-d-attente-de-bureau-70995963"
+  - Assets/Images/salle_attente
+  - Assets/Images/Menu_provisoire
+  mDefaultGlobalVariables: {fileID: 114461910258455176}
+  mScriptFragments: {fileID: 114629415413410926}
   mPackages:
   - PackageName: All objects
     PackagePath: All objects
     mIsDefaultPackage: 1
---- !u!114 &114049113210233616
+--- !u!114 &114239923523931004
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
@@ -36,10 +46,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 492ebc984d66d48148de3118943c6354, type: 3}
-  m_Name: ArticyScriptFragments
+  m_Script: {fileID: 1655710724, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: HierarchyManager
   m_EditorClassIdentifier: 
---- !u!114 &114158744317889872
+  serializedNodes:
+  - id: 72057611217797121
+    parent: 0
+    technicalName: Eai
+    articyType: Project
+    childCount: 0
+    indexOfFirstChild: 1
+--- !u!114 &114461910258455176
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
@@ -72,7 +89,7 @@ MonoBehaviour:
   mThrowOnMissingText: 0
   mClearOnLanguageSwitch: 1
   mExportLanguage: en
---- !u!114 &114562719898414904
+--- !u!114 &114629415413410926
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
@@ -80,7 +97,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1655710724, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
-  m_Name: HierarchyManager
+  m_Script: {fileID: 11500000, guid: 492ebc984d66d48148de3118943c6354, type: 3}
+  m_Name: ArticyScriptFragments
   m_EditorClassIdentifier: 
-  serializedNodes: []

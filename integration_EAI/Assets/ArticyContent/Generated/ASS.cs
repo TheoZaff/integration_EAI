@@ -20,7 +20,7 @@ namespace Articy.Eai
 {
     
     
-    public class ASS : Entity, IEntity, IPropertyProvider
+    public class ASS : Entity, IEntity, IPropertyProvider, IObjectWithFeatureplayer
     {
         
         [SerializeField()]
@@ -46,6 +46,11 @@ namespace Articy.Eai
             {
                 return mConstraints;
             }
+        }
+        
+        public playerFeature GetFeatureplayer()
+        {
+            return Template.player;
         }
         
         protected override void CloneProperties(object aClone)

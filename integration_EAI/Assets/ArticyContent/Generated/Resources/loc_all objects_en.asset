@@ -12,123 +12,125 @@ MonoBehaviour:
   m_Name: loc_all objects_en
   m_EditorClassIdentifier: 
   mLocaKeys:
+  - FFr_745F99A6.DisplayName
+  - FFr_745F99A6.Text
   - Dlg_BE7496F0.DisplayName
   - Dlg_BE7496F0.Text
   - Dlg_FB5F392B.DisplayName
   - Dlg_FB5F392B.Text
   - Dlg_E16BA149.DisplayName
   - Dlg_E16BA149.Text
-  - DFr_4B0871F0.PreviewText
-  - DFr_4B0871F0.StageDirections
-  - DFr_4B0871F0.Text
-  - DFr_9B634841.PreviewText
-  - DFr_9B634841.StageDirections
-  - DFr_9B634841.Text
-  - DFr_C97D4B9C.PreviewText
-  - DFr_C97D4B9C.StageDirections
-  - DFr_C97D4B9C.Text
-  - DFr_49283A54.PreviewText
-  - DFr_49283A54.StageDirections
-  - DFr_49283A54.Text
-  - DFr_F5E835ED.PreviewText
-  - DFr_F5E835ED.StageDirections
-  - DFr_F5E835ED.Text
-  - DFr_5F8965F7.PreviewText
-  - DFr_5F8965F7.StageDirections
-  - DFr_5F8965F7.Text
-  - DFr_5CF1AB1D.PreviewText
-  - DFr_5CF1AB1D.StageDirections
-  - DFr_5CF1AB1D.Text
-  - DFr_53252D44.PreviewText
-  - DFr_53252D44.StageDirections
-  - DFr_53252D44.Text
-  - DFr_CCB915F9.PreviewText
-  - DFr_CCB915F9.StageDirections
-  - DFr_CCB915F9.Text
-  - DFr_CF19D280.PreviewText
-  - DFr_CF19D280.StageDirections
-  - DFr_CF19D280.Text
-  - DFr_EA424AC1.PreviewText
-  - DFr_EA424AC1.StageDirections
-  - DFr_EA424AC1.Text
-  - DFr_956F4E59.PreviewText
-  - DFr_956F4E59.StageDirections
-  - DFr_956F4E59.Text
-  - DFr_56FF83B4.PreviewText
-  - DFr_56FF83B4.StageDirections
-  - DFr_56FF83B4.Text
-  - DFr_3C41A1F5.PreviewText
-  - DFr_3C41A1F5.StageDirections
-  - DFr_3C41A1F5.Text
-  - DFr_95647D54.PreviewText
-  - DFr_95647D54.StageDirections
-  - DFr_95647D54.Text
-  - DFr_0C7D1BA2.PreviewText
-  - DFr_0C7D1BA2.StageDirections
-  - DFr_0C7D1BA2.Text
-  - DFr_22AAA949.PreviewText
-  - DFr_22AAA949.StageDirections
-  - DFr_22AAA949.Text
-  - DFr_CAC88206.PreviewText
-  - DFr_CAC88206.StageDirections
-  - DFr_CAC88206.Text
-  - DFr_A8944C74.PreviewText
-  - DFr_A8944C74.StageDirections
-  - DFr_A8944C74.Text
-  - DFr_BDB2BF9A.PreviewText
-  - DFr_BDB2BF9A.StageDirections
-  - DFr_BDB2BF9A.Text
-  - DFr_169CC323.PreviewText
-  - DFr_169CC323.StageDirections
-  - DFr_169CC323.Text
-  - DFr_5560316E.PreviewText
-  - DFr_5560316E.StageDirections
-  - DFr_5560316E.Text
-  - DFr_3E06983C.PreviewText
-  - DFr_3E06983C.StageDirections
-  - DFr_3E06983C.Text
-  - DFr_7BAE9DE7.PreviewText
-  - DFr_7BAE9DE7.StageDirections
-  - DFr_7BAE9DE7.Text
-  - DFr_95BDA715.PreviewText
-  - DFr_95BDA715.StageDirections
-  - DFr_95BDA715.Text
-  - DFr_13447766.PreviewText
-  - DFr_13447766.StageDirections
-  - DFr_13447766.Text
-  - DFr_FB6F7B5F.PreviewText
-  - DFr_FB6F7B5F.StageDirections
-  - DFr_FB6F7B5F.Text
-  - DFr_64B78CDF.PreviewText
-  - DFr_64B78CDF.StageDirections
-  - DFr_64B78CDF.Text
-  - DFr_4D5CDC27.PreviewText
-  - DFr_4D5CDC27.StageDirections
-  - DFr_4D5CDC27.Text
-  - DFr_9CE9BFC3.PreviewText
-  - DFr_9CE9BFC3.StageDirections
-  - DFr_9CE9BFC3.Text
-  - DFr_ABC8F5B4.PreviewText
-  - DFr_ABC8F5B4.StageDirections
-  - DFr_ABC8F5B4.Text
-  - DFr_B4028708.PreviewText
-  - DFr_B4028708.StageDirections
-  - DFr_B4028708.Text
-  - DFr_480BF872.PreviewText
-  - DFr_480BF872.StageDirections
-  - DFr_480BF872.Text
-  - DFr_4498BD48.PreviewText
-  - DFr_4498BD48.StageDirections
-  - DFr_4498BD48.Text
-  - DFr_3577B72E.PreviewText
-  - DFr_3577B72E.StageDirections
-  - DFr_3577B72E.Text
-  - DFr_04C56BD1.PreviewText
-  - DFr_04C56BD1.StageDirections
-  - DFr_04C56BD1.Text
-  - DFr_6A98A56F.PreviewText
-  - DFr_6A98A56F.StageDirections
-  - DFr_6A98A56F.Text
+  - Answer_0_1_2.PreviewText
+  - Answer_0_1_2.StageDirections
+  - Answer_0_1_2.Text
+  - Dialog_0_1.PreviewText
+  - Dialog_0_1.StageDirections
+  - Dialog_0_1.Text
+  - Dialog_0_2.PreviewText
+  - Dialog_0_2.StageDirections
+  - Dialog_0_2.Text
+  - Dialog_1_1.PreviewText
+  - Dialog_1_1.StageDirections
+  - Dialog_1_1.Text
+  - Dialog_1_2.PreviewText
+  - Dialog_1_2.StageDirections
+  - Dialog_1_2.Text
+  - Dialog_1_3.PreviewText
+  - Dialog_1_3.StageDirections
+  - Dialog_1_3.Text
+  - Answer_1_1.PreviewText
+  - Answer_1_1.StageDirections
+  - Answer_1_1.Text
+  - Answer_1_2.PreviewText
+  - Answer_1_2.StageDirections
+  - Answer_1_2.Text
+  - Answer_1_3.PreviewText
+  - Answer_1_3.StageDirections
+  - Answer_1_3.Text
+  - Dialog_2_1.PreviewText
+  - Dialog_2_1.StageDirections
+  - Dialog_2_1.Text
+  - Dialog_2_2.PreviewText
+  - Dialog_2_2.StageDirections
+  - Dialog_2_2.Text
+  - Answer_2_1_2.PreviewText
+  - Answer_2_1_2.StageDirections
+  - Answer_2_1_2.Text
+  - 72057624102699733.PreviewText
+  - 72057624102699733.StageDirections
+  - 72057624102699733.Text
+  - 72057624102699741.PreviewText
+  - 72057624102699741.StageDirections
+  - 72057624102699741.Text
+  - 72057624102699750.PreviewText
+  - 72057624102699750.StageDirections
+  - 72057624102699750.Text
+  - 72057624102699756.PreviewText
+  - 72057624102699756.StageDirections
+  - 72057624102699756.Text
+  - Answer_2_1.PreviewText
+  - Answer_2_1.StageDirections
+  - Answer_2_1.Text
+  - Answer_2_2.PreviewText
+  - Answer_2_2.StageDirections
+  - Answer_2_2.Text
+  - Dialog_3_1.PreviewText
+  - Dialog_3_1.StageDirections
+  - Dialog_3_1.Text
+  - Dialog_3_2.PreviewText
+  - Dialog_3_2.StageDirections
+  - Dialog_3_2.Text
+  - Dialog_3_3.PreviewText
+  - Dialog_3_3.StageDirections
+  - Dialog_3_3.Text
+  - Answer_3_1.PreviewText
+  - Answer_3_1.StageDirections
+  - Answer_3_1.Text
+  - Answer_3_2.PreviewText
+  - Answer_3_2.StageDirections
+  - Answer_3_2.Text
+  - Answer_3_3.PreviewText
+  - Answer_3_3.StageDirections
+  - Answer_3_3.Text
+  - Dialog_4_1.PreviewText
+  - Dialog_4_1.StageDirections
+  - Dialog_4_1.Text
+  - Dialog_4_2.PreviewText
+  - Dialog_4_2.StageDirections
+  - Dialog_4_2.Text
+  - Dialog_4_3.PreviewText
+  - Dialog_4_3.StageDirections
+  - Dialog_4_3.Text
+  - Answer_4_1.PreviewText
+  - Answer_4_1.StageDirections
+  - Answer_4_1.Text
+  - Answer_4_2.PreviewText
+  - Answer_4_2.StageDirections
+  - Answer_4_2.Text
+  - Answer_4_3.PreviewText
+  - Answer_4_3.StageDirections
+  - Answer_4_3.Text
+  - Answer_0.PreviewText
+  - Answer_0.StageDirections
+  - Answer_0.Text
+  - 72057624102700126.PreviewText
+  - 72057624102700126.StageDirections
+  - 72057624102700126.Text
+  - 72057624102700133.PreviewText
+  - 72057624102700133.StageDirections
+  - 72057624102700133.Text
+  - 72057624102700147.PreviewText
+  - 72057624102700147.StageDirections
+  - 72057624102700147.Text
+  - 72057624102700154.PreviewText
+  - 72057624102700154.StageDirections
+  - 72057624102700154.Text
+  - Dialog_1_4.PreviewText
+  - Dialog_1_4.StageDirections
+  - Dialog_1_4.Text
+  - Answer_1_4.PreviewText
+  - Answer_1_4.StageDirections
+  - Answer_1_4.Text
   - DFr_0A4B0716.PreviewText
   - DFr_0A4B0716.StageDirections
   - DFr_0A4B0716.Text
@@ -153,30 +155,105 @@ MonoBehaviour:
   - DFr_16F9CB02.PreviewText
   - DFr_16F9CB02.StageDirections
   - DFr_16F9CB02.Text
-  - DFr_5DF16965.PreviewText
-  - DFr_5DF16965.StageDirections
-  - DFr_5DF16965.Text
-  - Ntt_FE94C9D9.DisplayName
-  - Ntt_FE94C9D9.Text
+  - Dialog_0.PreviewText
+  - Dialog_0.StageDirections
+  - Dialog_0.Text
+  - Doc_890D2080.DisplayName
+  - Doc_890D2080.Text
+  - Txt_D304F34F.DisplayName
+  - Txt_D304F34F.Text
+  - Txt_61EB85B2.DisplayName
+  - Txt_61EB85B2.Text
+  - Txt_53BC3076.DisplayName
+  - Txt_53BC3076.Text
+  - Txt_6B99817C.DisplayName
+  - Txt_6B99817C.Text
+  - Txt_9B8C6F87.DisplayName
+  - Txt_9B8C6F87.Text
   - Ntt_619E4CC9.DisplayName
   - Ntt_619E4CC9.Text
   - Ntt_05581525.DisplayName
   - Ntt_05581525.Text
   - Ntt_C74EAB4E.DisplayName
   - Ntt_C74EAB4E.Text
+  - Ntt_FE94C9D9.DisplayName
+  - Ntt_FE94C9D9.Text
+  - Ntt_50CC4EDF.DisplayName
+  - Ntt_50CC4EDF.Text
+  - Ntt_37C57A39.DisplayName
+  - Ntt_37C57A39.Text
+  - Ntt_637746F2.DisplayName
+  - Ntt_637746F2.Text
+  - Ntt_E144814F.DisplayName
+  - Ntt_E144814F.Text
+  - Ntt_B6AE636E.DisplayName
+  - Ntt_B6AE636E.Text
+  - Ntt_225AC80C.DisplayName
+  - Ntt_225AC80C.Text
+  - Loc_51E57F6F.DisplayName
+  - Loc_51E57F6F.Text
+  - Loc_A5FC2C26.DisplayName
+  - Loc_A5FC2C26.Text
+  - Loc_6EADF365.DisplayName
+  - Loc_6EADF365.Text
+  - Zon_24CB7872.DisplayName
+  - Zon_24CB7872.Text
+  - Zon_E9D4F2D5.DisplayName
+  - Zon_E9D4F2D5.Text
+  - Zon_E4C316A3.DisplayName
+  - Zon_E4C316A3.Text
+  - Zon_35A29B22.DisplayName
+  - Zon_35A29B22.Text
+  - Zon_D4BE2552.DisplayName
+  - Zon_D4BE2552.Text
+  - Zon_73E090FD.DisplayName
+  - Zon_73E090FD.Text
+  - LIm_DD24BDA1.DisplayName
+  - LIm_DD24BDA1.Text
+  - LIm_CBCC91DA.DisplayName
+  - LIm_CBCC91DA.Text
+  - LIm_E8C3AA0A.DisplayName
+  - LIm_E8C3AA0A.Text
   - Ast_53CAA688.DisplayName
   - Ast_53CAA688.Text
   - Ast_733C709A.DisplayName
   - Ast_733C709A.Text
-  - Ast_8DBED825.DisplayName
-  - Ast_8DBED825.Text
+  - Ast_C01B0FDF.DisplayName
+  - Ast_C01B0FDF.Text
+  - Ast_1D9A9A50.DisplayName
+  - Ast_1D9A9A50.Text
+  - Ast_F863D985.DisplayName
+  - Ast_F863D985.Text
+  - Ast_5EE43987.DisplayName
+  - Ast_5EE43987.Text
+  - Ast_DF31FE2E.DisplayName
+  - Ast_DF31FE2E.Text
+  - Ast_87BEB311.DisplayName
+  - Ast_87BEB311.Text
+  - Ast_D2AFB369.DisplayName
+  - Ast_D2AFB369.Text
+  - Ast_3072AD7A.DisplayName
+  - Ast_3072AD7A.Text
+  - Ast_3DC58597.DisplayName
+  - Ast_3DC58597.Text
+  - Ast_09FD717E.DisplayName
+  - Ast_09FD717E.Text
+  - Ast_3A0F5EC9.DisplayName
+  - Ast_3A0F5EC9.Text
+  - Ufo_69995863.DisplayName
   - Ufo_71BDD78A.DisplayName
+  - Ufo_89FA286C.DisplayName
   - Ufo_904DBC82.DisplayName
   - Ufo_E39855E9.DisplayName
   - Ufo_5164D463.DisplayName
   - Ufo_50D73E38.DisplayName
   - Ufo_337453A9.DisplayName
+  - Ufo_C37091EF.DisplayName
+  - Ufo_8C78DC47.DisplayName
+  - Ufo_75B931FD.DisplayName
   mLocaValues:
+  - Untitled flow fragment
+  - 
   - Profil 1
   - 'profil addiction : ACCUEIL'
   - Profil 1 RECCUEIL DE DONNEE
@@ -184,46 +261,46 @@ MonoBehaviour:
   - essai_test
   - 
   - Bonjour
-  - normal
+  - 
   - Bonjour !
   - Bonjour, Madame M assistante sociale.
-  - 'serre la main '
+  - 
   - Bonjour, Madame M, entrez.
   - 'Bonjour '
-  - abrupte
+  - 
   - Bonjour
   - Allez-y entrez
-  - polie et courtoise
-  - Allez-y entrez
+  - 
+  - Allez-y entrez (polie et courtoise)
   - 'Madame B, allez-y entrez '
-  - polie et courtoise
-  - Madame B, allez-y entrez
+  - 
+  - Madame B, allez-y entrez  (polie et courtoise)
   - Madame B, entrez !
   - abrupte
   - Madame B, entrez !
   - 
-  - entre dans la piece
   - 
-  - Nicolas X
   - entre dans la piece
   - Nicolas X
   - 
-  - entre dans la piece, regarde ses pieds
+  - (entre dans la piece )Nicolas X
   - 
+  - 
+  - entre dans la piece
   - "\"Alors je vous \xE9coute\""
-  - regarde la personne dans les yeux
-  - "\"Alors je vous \xE9coute\""
+  - 
+  - "\"Alors je vous \xE9coute\" (regarde la personne dans les yeux"
   - alors pourquoi ce rendez-vous ?
-  - regarde son dossier
-  - alors pourquoi ce rendez-vous ?
+  - 
+  - alors pourquoi ce rendez-vous ? (regarde son dossier)
   - Hmmmm...
-  - "g\xEAn\xE9"
+  - 
   - "Heummm\u2026  Je viens pour\u2026 Je viens parce que j'ai besoins de soins."
   - "D\u2019accord. C\u2019est quoi que vous consommez ?"
   - 'regarde la personne en face '
   - "D\u2019accord. C\u2019est quoi que vous consommez ?"
   - "Ca d\xE9pend ce que j\u2019ai\u2026 et du pognon\u2026"
-  - "g\xEAn\xE9"
+  - 
   - "Ca d\xE9pend ce que j\u2019ai\u2026 et du pognon\u2026"
   - "Vous vous rendez compte de la gravit\xE9 !"
   - 
@@ -233,10 +310,10 @@ MonoBehaviour:
   - "D\u2019accord. Et vous avez \xE9t\xE9 d\xE9j\xE0 accompagn\xE9 dans ce cadre-l\xE0
     par une association ?"
   - oui !
-  - "col\xE8re"
+  - 
   - oui !
   - "Oui, j\u2019ai d\xE9j\xE0 eu des traitements."
-  - normal
+  - 
   - "Oui, j\u2019ai d\xE9j\xE0 eu des traitements."
   - 
   - 
@@ -256,14 +333,14 @@ MonoBehaviour:
   - Cette association s'occupe de gens comme vous  qui ne savent pas que se droguer
     cest mal
   - 
-  - normal
+  - 
   - "Enfin\u2026 Comment on peut faire\_? Moi je suis oblig\xE9 de rendre des comptes
     en fait c\u2019est pour \xE7a que je suis oblig\xE9 d\u2019aller vite"
   - 
-  - "g\xEAn\xE9"
+  - 
   - "oui mais...je n'ai pas de t\xE9l\xE9phone"
   - 
-  - "col\xE8re"
+  - 
   - "je sais que c mal la drogue mais j'arrive pas \xE0 m'arreter"
   - 
   - 
@@ -271,7 +348,7 @@ MonoBehaviour:
   - 
   - 
   - Coment voulez vous vous en sortir ?
-  - 
+  - medicament
   - 
   - "Ces medicaments que vous prenez \xE0 des amis, vous savez ce que c'est ?"
   - 
@@ -280,17 +357,17 @@ MonoBehaviour:
   - 
   - 
   - 
+  - Oui
+  - 
+  - oui
   - 
   - 
-  - 
-  - 
-  - regarde ses pieds
   - "Mais\u2026. En fait, j\u2019ai \xE9t\xE9 interpell\xE9 pour trafic de stupp."
   - 
   - 
   - "D\u2019accord. Donc du coup vous consommez\_? Vous consommez certains produits\_?"
   - Oui
-  - "g\xEAn\xE9"
+  - 
   - "Oui, mais sa d\xE9pend de ce que j'ai...et du pognon."
   - 
   - 
@@ -335,23 +412,104 @@ MonoBehaviour:
   - 
   - 
   - " D'accord, c\u2019est une obligation de soin par rapport \xE0 quoi"
-  - profil 1
-  - "Il s'agit du profil numero 1, venu en rdv pour un probl\xE8me de suivi medical."
+  - briefing last_week
+  - 
+  - Travail sur Articy
+  - "Sur articy s'occuper des dialogues r\xE9m\xE9diations et indices ainsi que des
+    entit\xE9s\n\n- indices = objets d'inventaire\n\n- entit\xE9 = profil patient
+    et profil joueur \n\n- dans le profil patient : une entit\xE9 par \xE9tat (\xE9motionnelle)\n\n-
+    rem\xE9diation = affichage ponctuelle"
+  - "P\xE9dagogie"
+  - "Conception p\xE9dagogique pouvant \xEAtre faite sur un support diff\xE9r\xE9
+    mais \xE0 int\xE9grer dans le Flow d'articy pour l'utilisation par l'\xE9quipe
+    de dev \xE0 l'export"
+  - "D\xE9veloppement"
+  - "d\xE9veloppement des sc\xE8nes/interface et interactions uniquement sous Unity
+    (sans utilisation d'articy)"
+  - Graphisme
+  - "graphisle enti\xE8rement int\xE9gr\xE9 dans le dossier articy, \xE0 r\xE9cup\xE9r\xE9
+    par les dev \xE0 l'export"
+  - Note MAJ
+  - "regarde dans le flow d'articy si je peux retrouver toute les caract\xE9ristiques
+    techniques et les modifier pour que Th\xE9o Z s'y retrouve \xE0 l'int\xE9gration"
   - Assistante sociale
   - "Repr\xE9sente le joueur"
   - Indice
   - 
   - remediation
   - 
+  - profil 1 normal
+  - "Il s'agit du profil numero 1, venu en rdv pour un probl\xE8me de suivi medical."
+  - "g\xEAne"
+  - 
+  - "col\xE8re"
+  - 
+  - triste
+  - 
+  - distrait
+  - 
+  - "\xE9tonn\xE9"
+  - 
+  - content
+  - 
+  - salle attente
+  - salle d'attente ou sera effectuer le choix des profils
+  - bureau ASS
+  - 
+  - Menu
+  - 
+  - profil 1
+  - 
+  - Journal
+  - 
+  - aide
+  - 
+  - Jouer
+  - 
+  - options
+  - 
+  - quitter
+  - 
+  - salle_attente
+  - 
+  - entretient
+  - 
+  - Menu_provisoire
+  - 
   - theoDR(1)
   - 
   - elodie(1)
   - 
-  - ASS_decor
+  - entretient
   - 
+  - "col\xE8re"
+  - 
+  - content
+  - 
+  - distrait
+  - 
+  - "\xE9tonn\xE9"
+  - 
+  - "g\xEAne"
+  - 
+  - normal
+  - 
+  - triste
+  - 
+  - "int\xE9rieur-moderne-de-salle-d-attente-de-bureau-70995963"
+  - 
+  - salle_attente
+  - 
+  - Menu_provisoire
+  - 
+  - profil 1
   - Images
+  - expression
   - Videos
   - Audio
   - Documents
   - Miscellaneous
   - the good Way
+  - etats
+  - location_feature
+  - expression

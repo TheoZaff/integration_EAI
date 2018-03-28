@@ -36,6 +36,12 @@ namespace Articy.Eai.Features
         [SerializeField()]
         private String mSmallTextValue_02;
         
+        [SerializeField()]
+        private ArticyValueArticyObject mgene = new ArticyValueArticyObject();
+        
+        [SerializeField()]
+        private ArticyValueArticyObject mcolere = new ArticyValueArticyObject();
+        
         public String SmallTextValue
         {
             get
@@ -84,6 +90,30 @@ namespace Articy.Eai.Features
             }
         }
         
+        public ArticyObject gene
+        {
+            get
+            {
+                return mgene.GetValue();
+            }
+            set
+            {
+                mgene.SetValue(value);
+            }
+        }
+        
+        public ArticyObject colere
+        {
+            get
+            {
+                return mcolere.GetValue();
+            }
+            set
+            {
+                mcolere.SetValue(value);
+            }
+        }
+        
         private void CloneProperties(object aClone)
         {
             Articy.Eai.Features.profil_typeFeature newClone = ((Articy.Eai.Features.profil_typeFeature)(aClone));
@@ -91,6 +121,14 @@ namespace Articy.Eai.Features
             newClone.NumberValue = NumberValue;
             newClone.MediumTextValue = MediumTextValue;
             newClone.SmallTextValue_02 = SmallTextValue_02;
+            if ((mgene != null))
+            {
+                newClone.mgene = ((ArticyValueArticyObject)(mgene.CloneObject()));
+            }
+            if ((mcolere != null))
+            {
+                newClone.mcolere = ((ArticyValueArticyObject)(mcolere.CloneObject()));
+            }
         }
         
         public object CloneObject()
@@ -128,6 +166,16 @@ namespace Articy.Eai.Features
                 SmallTextValue_02 = System.Convert.ToString(aValue);
                 return;
             }
+            if ((aProperty == "gene"))
+            {
+                gene = ((ArticyObject)(aValue));
+                return;
+            }
+            if ((aProperty == "colere"))
+            {
+                colere = ((ArticyObject)(aValue));
+                return;
+            }
         }
         
         public Articy.Unity.Interfaces.ScriptDataProxy getProp(string aProperty)
@@ -147,6 +195,14 @@ namespace Articy.Eai.Features
             if ((aProperty == "SmallTextValue_02"))
             {
                 return new Articy.Unity.Interfaces.ScriptDataProxy(SmallTextValue_02);
+            }
+            if ((aProperty == "gene"))
+            {
+                return new Articy.Unity.Interfaces.ScriptDataProxy(gene);
+            }
+            if ((aProperty == "colere"))
+            {
+                return new Articy.Unity.Interfaces.ScriptDataProxy(colere);
             }
             return null;
         }
