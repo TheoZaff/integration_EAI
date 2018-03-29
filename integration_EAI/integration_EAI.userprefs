@@ -2,15 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EAI/Scripts/MyDialogueHandler.cs">
     <Files>
-      <File FileName="Assets/EAI/Scripts/MyDialogueHandler.cs" Line="39" Column="2" />
+      <File FileName="Assets/EAI/Scripts/MyDialogueHandler.cs" Line="23" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <RunToCursorBreakpoint file="/Users/theozaffran/Documents/GitHub/integration_EAI/integration_EAI/Assets/EAI/Scripts/myDialogueHandler.cs" line="35" column="41" />
-      <RunToCursorBreakpoint file="/Users/theozaffran/Documents/GitHub/integration_EAI/integration_EAI/Assets/EAI/Scripts/MyDialogueHandler.cs" line="1" column="16" />
-      <RunToCursorBreakpoint file="/Users/theozaffran/Documents/GitHub/integration_EAI/integration_EAI/Assets/EAI/Scripts/MyDialogueHandler.cs" line="36" column="11" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
